@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/record_a_new_echo"
+    android:minHeight="80dp"
+    android:minWidth="110dp"
+    android:resizeMode="none"
+    android:widgetCategory="home_screen"
+    android:initialLayout="@layout/glance_default_loading_layout"
+    />
